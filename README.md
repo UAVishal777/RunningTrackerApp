@@ -4,8 +4,6 @@ Creating a well-documented README file is essential for any software project, in
 
 # Android Running App
 
-![App Logo](link-to-your-app-logo.png) <!-- If applicable -->
-
 ## Overview
 
 The Android Running App is a fitness application designed to help users track their running activities, including distance, time, calorie burn, and route mapping. It incorporates various Android technologies such as Android Map, Dagger Hilt, Room Database, LiveData, and ViewModel.
